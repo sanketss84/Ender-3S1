@@ -1,0 +1,45 @@
+
+---------------------------------------------------------------------------------------
+Ender-3 S1_Pro_HWv24S1_301_SWV2.0.8.26F4_FDM_LASER 02 Feb. 2023
+Printer: Ender-3 S1 Pro
+Printer Mainboard: V2.4
+
+Notes:
+This is the special firmware for Ender-3 S1 Pro, which Supports adding CV-Laser Module, and automatic switching between FDM and laser printing.
+
+Display firmware update：
+1. Format the TF card on the computer side, and select 4096 for the allocation unit size.
+2. Put the file "private" and “DWIN_SET”into the TF card at the same time.
+3. Turn off the printer and insert the TF card into the card slot on the back of the screen.
+4. Reboot and wait for the update to finish.
+5. After finishing the update, remove the TF card and delete the files inside.
+
+Mainboard firmware update：
+1. Format the SD card on the computer side, and select 4096 for the allocation unit size.
+2. Put the firmware file "Ender-3S1_Pro_HWv24S1_301_SWV2.0.8.23F1_F103_FDM_LASER.bin" and the STM32F4_UPDATE folder into the SD card at the same time (THIS STEP IS REQUIRED， PLEASE NOTE！).
+3. Turn off the printer and insert the SD card into the card slot on the motherboard.
+4. Reboot and wait for the update to finish.
+5. After finishing the update, remove the SD card from the motherboard slot and delete the bin file inside.
+
+---------------------------------------------------------------------------------------
+Ender-3 S1_Pro_HWv24S1_301_SWV2.0.8.24F4_FDM_LASER 29 Nov. 2022
+
+Printer: Ender-3 S1 Pro
+Printer Mainboard: V2.4
+
+Notes: 
+This is the special firmware for Ender-3 S1 Pro, which Supports adding CV-Laser Module, and automatic switching between FDM and laser printing.
+
+Display firmware update：
+1. Format the TF card on the computer side, and select 4096 for the allocation unit size.
+2. Put the file "private" and “DWIN_SET”into the TF card at the same time.
+3. Turn off the printer and insert the TF card into the card slot on the back of the screen.
+4. Reboot and wait for the update to finish.
+5. After finishing the update, remove the TF card and delete the files inside.
+
+Mainboard firmware update：
+1. Format the SD card on the computer side, and select 4096 for the allocation unit size.
+2. Put the firmware file "Ender-3s1pro_hw24s1_301_V2.0.8.16F1_F103_LASER_FDM.bin" and the STM32F4_UPDATE folder into the SD card at the same time (THIS STEP IS REQUIRED， PLEASE NOTE！).
+3. Turn off the printer and insert the SD card into the card slot on the motherboard.  
+4. Reboot and wait for the update to finish.
+5. After finishing the update, remove the SD card from the motherboard slot and delete the bin file inside.
